@@ -8,7 +8,7 @@ const MESSAGES = [
   "Si moja Humenčanka ☀️",
   "Najkrajšia na svete 🌟",
   "Môj medvedík ťa ľúbi! 🐻‍❄️",
-  "Bašikiiiiiiiii! 💖",
+  "Bašikiiiiiiii! 💖",
   "Malá princezná 👑",
 ];
 
