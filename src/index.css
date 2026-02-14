@@ -1,0 +1,35 @@
+:root {
+  --font-heading: 'Dancing Script', cursive;
+  --font-body: 'Quicksand', sans-serif;
+  
+  --color-sky-top: #2c3e50;
+  --color-sky-bottom: #4ca1af;
+  --color-snow: #e8f4f8;
+  --color-heart: #ff6b9d;
+  --color-heart-light: #ff8fab;
+  --color-accent: #ffd700;
+  
+  --bg-gradient: linear-gradient(to bottom, #1a2a6c, #b21f1f, #fdbb2d); /* Aurora/Sunset vibe */
+  --bg-arctic: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); /* Soft Arctic */
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: var(--font-body);
+  background: var(--bg-arctic);
+  color: #333;
+  min-height: 100vh;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
