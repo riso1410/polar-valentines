@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Heart icon">
+  <path
+    d="M32 58c-1 0-28-18-28-37.5C4 12 11.2 6 19.5 6 25.9 6 30.8 9.7 32 13.9 33.2 9.7 38.1 6 44.5 6 52.8 6 60 12 60 20.5 60 40 33 58 32 58Z"
+    fill="#ff6b9d"
+    stroke="#d6336c"
+    stroke-width="2"
+    stroke-linejoin="round"
+  />
+</svg>
